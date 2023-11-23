@@ -1,4 +1,4 @@
-# Github_Workshop Gail CS
+# Github_Workshop Gail CS, Nina CS
 ( ให้น้องๆจับคู่กับเพื่อนใน class ทำ Project นี้ ด้วยกันเป็นงานคู่ )
 
 ## Instruction
